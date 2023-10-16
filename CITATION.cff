@@ -15,3 +15,4 @@ identifiers:
   - type: doi
     value: 10.48550/arXiv.2309.16312
 repository-code: 'https://github.com/ofek-b/gme_superposition_geometries'
+date-released: '2023-09-28'
