@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: 'Calculations for arXiv:2309.16312'
+title: 'Calculations for "Gravity Mediated Entanglement between Oscillators as Quantum Superposition of Geometries"'
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -15,6 +15,3 @@ identifiers:
   - type: doi
     value: 10.48550/arXiv.2309.16312
 repository-code: 'https://github.com/ofek-b/gme_superposition_geometries'
-abstract: >-
-  These are the Mathematica Notebooks used for Bengyat et.
-  al. 2023, https://arxiv.org/abs/2309.16312.
